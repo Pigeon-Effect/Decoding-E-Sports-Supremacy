@@ -1,0 +1,397 @@
+Game Genre,Country,Ranking
+Battle Royale,Mexico,50.0
+Battle Royale,Italy,50.0
+Battle Royale,Denmark,50.0
+Battle Royale,Australia,50.0
+Battle Royale,Puerto Rico,50.0
+Battle Royale,"Korea, Republic of",50.0
+Battle Royale,Latvia,50.0
+Battle Royale,Sweden,50.0
+Battle Royale,Hungary,50.0
+Battle Royale,Spain,50.0
+Battle Royale,Thailand,50.0
+Battle Royale,"Taiwan, Republic of China",50.0
+Battle Royale,Saudi Arabia,50.0
+Battle Royale,Netherlands,50.0
+Battle Royale,Finland,50.0
+Battle Royale,India,50.0
+Battle Royale,Philippines,50.0
+Battle Royale,Jordan,50.0
+Battle Royale,Azerbaijan,50.0
+Battle Royale,Croatia,50.0
+Battle Royale,Viet Nam,50.0
+Battle Royale,Indonesia,50.0
+Battle Royale,Malaysia,50.0
+Battle Royale,United States,1.0
+Battle Royale,Germany,2.0
+Battle Royale,Japan,3.0
+Battle Royale,France,4.0
+Battle Royale,China,5.0
+Battle Royale,Russian Federation,6.0
+Battle Royale,Canada,7.0
+Battle Royale,United Kingdom,8.0
+Battle Royale,Brazil,9.0
+Battle Royale,Poland,10.0
+Collection Cards,Mexico,50.0
+Collection Cards,Italy,50.0
+Collection Cards,Denmark,50.0
+Collection Cards,Puerto Rico,50.0
+Collection Cards,"Korea, Republic of",50.0
+Collection Cards,Latvia,50.0
+Collection Cards,Brazil,50.0
+Collection Cards,Hungary,50.0
+Collection Cards,Spain,50.0
+Collection Cards,Poland,50.0
+Collection Cards,Thailand,50.0
+Collection Cards,"Taiwan, Republic of China",50.0
+Collection Cards,Saudi Arabia,50.0
+Collection Cards,Finland,50.0
+Collection Cards,India,50.0
+Collection Cards,Japan,50.0
+Collection Cards,Philippines,50.0
+Collection Cards,Jordan,50.0
+Collection Cards,Azerbaijan,50.0
+Collection Cards,Croatia,50.0
+Collection Cards,Viet Nam,50.0
+Collection Cards,Indonesia,50.0
+Collection Cards,Malaysia,50.0
+Collection Cards,United States,1.0
+Collection Cards,Canada,2.0
+Collection Cards,United Kingdom,3.0
+Collection Cards,France,4.0
+Collection Cards,Russian Federation,5.0
+Collection Cards,Sweden,6.0
+Collection Cards,Germany,7.0
+Collection Cards,Australia,8.0
+Collection Cards,China,9.0
+Collection Cards,Netherlands,10.0
+FPS,Mexico,50.0
+FPS,Italy,50.0
+FPS,Denmark,50.0
+FPS,Russian Federation,50.0
+FPS,Canada,50.0
+FPS,Australia,50.0
+FPS,Puerto Rico,50.0
+FPS,Latvia,50.0
+FPS,Sweden,50.0
+FPS,Brazil,50.0
+FPS,Hungary,50.0
+FPS,Spain,50.0
+FPS,"Taiwan, Republic of China",50.0
+FPS,Saudi Arabia,50.0
+FPS,Netherlands,50.0
+FPS,United Kingdom,50.0
+FPS,Finland,50.0
+FPS,China,50.0
+FPS,Jordan,50.0
+FPS,Azerbaijan,50.0
+FPS,Croatia,50.0
+FPS,Indonesia,50.0
+FPS,Malaysia,50.0
+FPS,Germany,1.0
+FPS,"Korea, Republic of",2.0
+FPS,United States,3.0
+FPS,Poland,4.0
+FPS,Japan,5.0
+FPS,Philippines,6.0
+FPS,Viet Nam,7.0
+FPS,France,8.0
+FPS,India,9.0
+FPS,Thailand,10.0
+Fighting Game,Mexico,50.0
+Fighting Game,Denmark,50.0
+Fighting Game,Russian Federation,50.0
+Fighting Game,Australia,50.0
+Fighting Game,Puerto Rico,50.0
+Fighting Game,"Korea, Republic of",50.0
+Fighting Game,Sweden,50.0
+Fighting Game,Hungary,50.0
+Fighting Game,Germany,50.0
+Fighting Game,Spain,50.0
+Fighting Game,Poland,50.0
+Fighting Game,Thailand,50.0
+Fighting Game,"Taiwan, Republic of China",50.0
+Fighting Game,Saudi Arabia,50.0
+Fighting Game,Netherlands,50.0
+Fighting Game,United Kingdom,50.0
+Fighting Game,Finland,50.0
+Fighting Game,China,50.0
+Fighting Game,Philippines,50.0
+Fighting Game,Jordan,50.0
+Fighting Game,Azerbaijan,50.0
+Fighting Game,Croatia,50.0
+Fighting Game,Viet Nam,50.0
+Fighting Game,India,1.0
+Fighting Game,Italy,2.0
+Fighting Game,United States,3.0
+Fighting Game,Brazil,4.0
+Fighting Game,Japan,5.0
+Fighting Game,Canada,6.0
+Fighting Game,France,7.0
+Fighting Game,Indonesia,8.0
+Fighting Game,Latvia,9.0
+Fighting Game,Malaysia,10.0
+MOBA,Mexico,50.0
+MOBA,Italy,50.0
+MOBA,Denmark,50.0
+MOBA,Russian Federation,50.0
+MOBA,Australia,50.0
+MOBA,Puerto Rico,50.0
+MOBA,Latvia,50.0
+MOBA,Sweden,50.0
+MOBA,Hungary,50.0
+MOBA,Spain,50.0
+MOBA,Poland,50.0
+MOBA,Thailand,50.0
+MOBA,"Taiwan, Republic of China",50.0
+MOBA,Saudi Arabia,50.0
+MOBA,Netherlands,50.0
+MOBA,Finland,50.0
+MOBA,China,50.0
+MOBA,India,50.0
+MOBA,Philippines,50.0
+MOBA,Jordan,50.0
+MOBA,Viet Nam,50.0
+MOBA,Indonesia,50.0
+MOBA,Malaysia,50.0
+MOBA,United States,1.0
+MOBA,Japan,2.0
+MOBA,United Kingdom,3.0
+MOBA,Canada,4.0
+MOBA,Croatia,5.0
+MOBA,France,6.0
+MOBA,Azerbaijan,7.0
+MOBA,Germany,8.0
+MOBA,"Korea, Republic of",9.0
+MOBA,Brazil,10.0
+Music,Mexico,50.0
+Music,Italy,50.0
+Music,Denmark,50.0
+Music,Australia,50.0
+Music,Puerto Rico,50.0
+Music,Latvia,50.0
+Music,Sweden,50.0
+Music,Brazil,50.0
+Music,Hungary,50.0
+Music,Spain,50.0
+Music,Poland,50.0
+Music,Thailand,50.0
+Music,"Taiwan, Republic of China",50.0
+Music,Saudi Arabia,50.0
+Music,Netherlands,50.0
+Music,Finland,50.0
+Music,India,50.0
+Music,Japan,50.0
+Music,Philippines,50.0
+Music,Croatia,50.0
+Music,Viet Nam,50.0
+Music,Indonesia,50.0
+Music,Malaysia,50.0
+Music,United States,1.0
+Music,"Korea, Republic of",2.0
+Music,China,3.0
+Music,Germany,4.0
+Music,Azerbaijan,5.0
+Music,Russian Federation,6.0
+Music,France,7.0
+Music,Canada,8.0
+Music,United Kingdom,9.0
+Music,Jordan,10.0
+Puzzle,Mexico,50.0
+Puzzle,Italy,50.0
+Puzzle,Australia,50.0
+Puzzle,Puerto Rico,50.0
+Puzzle,Latvia,50.0
+Puzzle,Hungary,50.0
+Puzzle,Spain,50.0
+Puzzle,Poland,50.0
+Puzzle,Thailand,50.0
+Puzzle,"Taiwan, Republic of China",50.0
+Puzzle,Saudi Arabia,50.0
+Puzzle,Netherlands,50.0
+Puzzle,United Kingdom,50.0
+Puzzle,Finland,50.0
+Puzzle,India,50.0
+Puzzle,Japan,50.0
+Puzzle,Philippines,50.0
+Puzzle,Jordan,50.0
+Puzzle,Azerbaijan,50.0
+Puzzle,Croatia,50.0
+Puzzle,Viet Nam,50.0
+Puzzle,Indonesia,50.0
+Puzzle,Malaysia,50.0
+Puzzle,China,1.0
+Puzzle,United States,2.0
+Puzzle,Germany,3.0
+Puzzle,Russian Federation,4.0
+Puzzle,"Korea, Republic of",5.0
+Puzzle,Brazil,6.0
+Puzzle,Sweden,7.0
+Puzzle,Denmark,8.0
+Puzzle,Canada,9.0
+Puzzle,France,10.0
+RPG,Mexico,50.0
+RPG,Denmark,50.0
+RPG,Russian Federation,50.0
+RPG,Australia,50.0
+RPG,Puerto Rico,50.0
+RPG,Latvia,50.0
+RPG,Sweden,50.0
+RPG,Brazil,50.0
+RPG,Hungary,50.0
+RPG,Spain,50.0
+RPG,Thailand,50.0
+RPG,"Taiwan, Republic of China",50.0
+RPG,Saudi Arabia,50.0
+RPG,China,50.0
+RPG,India,50.0
+RPG,Japan,50.0
+RPG,Philippines,50.0
+RPG,Jordan,50.0
+RPG,Azerbaijan,50.0
+RPG,Croatia,50.0
+RPG,Viet Nam,50.0
+RPG,Indonesia,50.0
+RPG,Malaysia,50.0
+RPG,United Kingdom,1.0
+RPG,Germany,2.0
+RPG,France,3.0
+RPG,United States,4.0
+RPG,Netherlands,5.0
+RPG,Finland,6.0
+RPG,Poland,7.0
+RPG,Canada,8.0
+RPG,Italy,9.0
+RPG,"Korea, Republic of",10.0
+Racing,Mexico,50.0
+Racing,Italy,50.0
+Racing,Puerto Rico,50.0
+Racing,Latvia,50.0
+Racing,France,50.0
+Racing,Sweden,50.0
+Racing,Hungary,50.0
+Racing,Germany,50.0
+Racing,Spain,50.0
+Racing,Poland,50.0
+Racing,Thailand,50.0
+Racing,"Taiwan, Republic of China",50.0
+Racing,Saudi Arabia,50.0
+Racing,Netherlands,50.0
+Racing,Finland,50.0
+Racing,India,50.0
+Racing,Philippines,50.0
+Racing,Jordan,50.0
+Racing,Azerbaijan,50.0
+Racing,Croatia,50.0
+Racing,Viet Nam,50.0
+Racing,Indonesia,50.0
+Racing,Malaysia,50.0
+Racing,United States,1.0
+Racing,Australia,2.0
+Racing,Russian Federation,3.0
+Racing,Brazil,4.0
+Racing,"Korea, Republic of",5.0
+Racing,Denmark,6.0
+Racing,Canada,7.0
+Racing,Japan,8.0
+Racing,United Kingdom,9.0
+Racing,China,10.0
+Sports,Mexico,50.0
+Sports,Italy,50.0
+Sports,Denmark,50.0
+Sports,Russian Federation,50.0
+Sports,Puerto Rico,50.0
+Sports,Latvia,50.0
+Sports,Sweden,50.0
+Sports,Hungary,50.0
+Sports,Spain,50.0
+Sports,Thailand,50.0
+Sports,"Taiwan, Republic of China",50.0
+Sports,Saudi Arabia,50.0
+Sports,Netherlands,50.0
+Sports,Finland,50.0
+Sports,India,50.0
+Sports,Japan,50.0
+Sports,Philippines,50.0
+Sports,Jordan,50.0
+Sports,Azerbaijan,50.0
+Sports,Croatia,50.0
+Sports,Viet Nam,50.0
+Sports,Indonesia,50.0
+Sports,Malaysia,50.0
+Sports,United States,1.0
+Sports,"Korea, Republic of",2.0
+Sports,Germany,3.0
+Sports,Poland,4.0
+Sports,China,5.0
+Sports,France,6.0
+Sports,Brazil,7.0
+Sports,United Kingdom,8.0
+Sports,Australia,9.0
+Sports,Canada,10.0
+Strategy,Mexico,50.0
+Strategy,Italy,50.0
+Strategy,Russian Federation,50.0
+Strategy,Australia,50.0
+Strategy,Canada,50.0
+Strategy,"Korea, Republic of",50.0
+Strategy,Latvia,50.0
+Strategy,Sweden,50.0
+Strategy,Hungary,50.0
+Strategy,Poland,50.0
+Strategy,Thailand,50.0
+Strategy,Netherlands,50.0
+Strategy,Finland,50.0
+Strategy,China,50.0
+Strategy,India,50.0
+Strategy,Japan,50.0
+Strategy,Philippines,50.0
+Strategy,Jordan,50.0
+Strategy,Azerbaijan,50.0
+Strategy,Croatia,50.0
+Strategy,Viet Nam,50.0
+Strategy,Indonesia,50.0
+Strategy,Malaysia,50.0
+Strategy,Germany,1.0
+Strategy,United States,2.0
+Strategy,"Taiwan, Republic of China",3.0
+Strategy,United Kingdom,4.0
+Strategy,France,5.0
+Strategy,Brazil,6.0
+Strategy,Spain,7.0
+Strategy,Saudi Arabia,8.0
+Strategy,Denmark,9.0
+Strategy,Puerto Rico,10.0
+TPS,Italy,50.0
+TPS,Russian Federation,50.0
+TPS,Australia,50.0
+TPS,"Korea, Republic of",50.0
+TPS,Latvia,50.0
+TPS,Brazil,50.0
+TPS,Germany,50.0
+TPS,Spain,50.0
+TPS,Poland,50.0
+TPS,Thailand,50.0
+TPS,"Taiwan, Republic of China",50.0
+TPS,Saudi Arabia,50.0
+TPS,Netherlands,50.0
+TPS,Finland,50.0
+TPS,China,50.0
+TPS,India,50.0
+TPS,Japan,50.0
+TPS,Jordan,50.0
+TPS,Azerbaijan,50.0
+TPS,Croatia,50.0
+TPS,Viet Nam,50.0
+TPS,Indonesia,50.0
+TPS,Malaysia,50.0
+TPS,United States,1.0
+TPS,Mexico,2.0
+TPS,Philippines,3.0
+TPS,United Kingdom,4.0
+TPS,Hungary,5.0
+TPS,France,6.0
+TPS,Puerto Rico,7.0
+TPS,Sweden,8.0
+TPS,Canada,9.0
+TPS,Denmark,10.0

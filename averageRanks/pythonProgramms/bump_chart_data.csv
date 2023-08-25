@@ -1,0 +1,121 @@
+Game Genre,Country,Ranking
+BattleRoyale,United States,1.0
+BattleRoyale,Germany,2.0
+BattleRoyale,Japan,3.0
+BattleRoyale,France,4.0
+BattleRoyale,China,5.0
+BattleRoyale,Russian Federation,6.0
+BattleRoyale,Canada,7.0
+BattleRoyale,United Kingdom,8.0
+BattleRoyale,Brazil,9.0
+BattleRoyale,Poland,10.0
+CollectibleCardGame,United States,1.0
+CollectibleCardGame,Canada,2.0
+CollectibleCardGame,United Kingdom,3.0
+CollectibleCardGame,France,4.0
+CollectibleCardGame,Russian Federation,5.0
+CollectibleCardGame,Sweden,6.0
+CollectibleCardGame,Germany,7.0
+CollectibleCardGame,Australia,8.0
+CollectibleCardGame,China,9.0
+CollectibleCardGame,Netherlands,10.0
+FPS,Germany,1.0
+FPS,"Korea, Republic of",2.0
+FPS,United States,3.0
+FPS,Poland,4.0
+FPS,Japan,5.0
+FPS,Philippines,6.0
+FPS,Viet Nam,7.0
+FPS,France,8.0
+FPS,India,9.0
+FPS,Thailand,10.0
+FightingGame,India,1.0
+FightingGame,Italy,2.0
+FightingGame,United States,3.0
+FightingGame,Brazil,4.0
+FightingGame,Japan,5.0
+FightingGame,Canada,6.0
+FightingGame,France,7.0
+FightingGame,Indonesia,8.0
+FightingGame,Latvia,9.0
+FightingGame,Malaysia,10.0
+MOBA,United States,1.0
+MOBA,Japan,2.0
+MOBA,United Kingdom,3.0
+MOBA,Canada,4.0
+MOBA,Croatia,5.0
+MOBA,France,6.0
+MOBA,Azerbaijan,7.0
+MOBA,Germany,8.0
+MOBA,"Korea, Republic of",9.0
+MOBA,Brazil,10.0
+Music,United States,1.0
+Music,"Korea, Republic of",2.0
+Music,China,3.0
+Music,Germany,4.0
+Music,Azerbaijan,5.0
+Music,Russian Federation,6.0
+Music,France,7.0
+Music,Canada,8.0
+Music,United Kingdom,9.0
+Music,Jordan,10.0
+Puzzle,China,1.0
+Puzzle,United States,2.0
+Puzzle,Germany,3.0
+Puzzle,Russian Federation,4.0
+Puzzle,"Korea, Republic of",5.0
+Puzzle,Brazil,6.0
+Puzzle,Sweden,7.0
+Puzzle,Denmark,8.0
+Puzzle,Canada,9.0
+Puzzle,France,10.0
+RPG,United Kingdom,1.0
+RPG,Germany,2.0
+RPG,France,3.0
+RPG,United States,4.0
+RPG,Netherlands,5.0
+RPG,Finland,6.0
+RPG,Poland,7.0
+RPG,Canada,8.0
+RPG,Italy,9.0
+RPG,"Korea, Republic of",10.0
+Racing,United States,1.0
+Racing,Australia,2.0
+Racing,Russian Federation,3.0
+Racing,Brazil,4.0
+Racing,"Korea, Republic of",5.0
+Racing,Denmark,6.0
+Racing,Canada,7.0
+Racing,Japan,8.0
+Racing,United Kingdom,9.0
+Racing,China,10.0
+Sports,United States,1.0
+Sports,"Korea, Republic of",2.0
+Sports,Germany,3.0
+Sports,Poland,4.0
+Sports,China,5.0
+Sports,France,6.0
+Sports,Brazil,7.0
+Sports,United Kingdom,8.0
+Sports,Australia,9.0
+Sports,Canada,10.0
+Strategy,Germany,1.0
+Strategy,United States,2.0
+Strategy,"Taiwan, Republic of China",3.0
+Strategy,United Kingdom,4.0
+Strategy,France,5.0
+Strategy,Brazil,6.0
+Strategy,Spain,7.0
+Strategy,Saudi Arabia,8.0
+Strategy,Denmark,9.0
+Strategy,Puerto Rico,10.0
+TPS,United States,1.0
+TPS,Mexico,2.0
+TPS,Philippines,3.0
+TPS,United Kingdom,4.0
+TPS,Hungary,5.0
+TPS,France,6.0
+TPS,Puerto Rico,7.0
+TPS,Sweden,8.0
+TPS,Canada,9.0
+TPS,Denmark,10.0

@@ -1,0 +1,422 @@
+rank,country,earning,players,tournaments
+Artifact Classic,1.,China,"$26,273.47",21 Players
+Artifact Classic,2.,United States,"$24,859.43",83 Players
+Artifact Classic,3.,Russian Federation,"$17,440.55",58 Players
+Artifact Classic,4.,Germany,"$14,417.30",16 Players
+Artifact Classic,5.,Czech Republic,"$5,951.00",4 Players
+Artifact Classic,6.,Sweden,"$5,190.90",2 Players
+Artifact Classic,7.,Denmark,"$4,888.00",3 Players
+Artifact Classic,8.,Australia,"$2,873.81",7 Players
+Artifact Classic,9.,Kazakhstan,"$2,337.69",2 Players
+Artifact Classic,10.,Spain,"$2,000.00",1 Player
+Artifact Classic,11.,Finland,"$1,923.00",4 Players
+Artifact Classic,12.,United Kingdom,"$1,733.35",5 Players
+Artifact Classic,13.,Canada,"$1,513.10",9 Players
+Artifact Classic,14.,Lithuania,"$1,212.50",2 Players
+Artifact Classic,15.,Argentina,$825.00,4 Players
+Artifact Classic,16.,Brazil,$711.13,10 Players
+Artifact Classic,17.,Poland,$667.00,2 Players
+Artifact Classic,18.,Austria,$612.50,2 Players
+Artifact Classic,19.,Peru,$548.33,4 Players
+Artifact Classic,20.,Ukraine,$519.46,6 Players
+Artifact Classic,21.,Thailand,$510.50,1 Player
+Artifact Classic,22.,--UNDEFINED--,$510.00,7 Players
+Artifact Classic,23.,Greece,$500.00,1 Player
+Artifact Classic,24.,"Korea, Republic of",$375.00,1 Player
+Artifact Classic,25.,Belarus,$317.18,6 Players
+Artifact Classic,26.,Malaysia,$207.50,2 Players
+Artifact Classic,27.,"Moldova, Republic of",$199.50,1 Player
+Artifact Classic,28.,Israel,$180.00,1 Player
+Artifact Classic,29.,Bolivia,$160.00,1 Player
+Artifact Classic,30.,Romania,$142.50,1 Player
+Artifact Classic,31.,Viet Nam,$128.96,4 Players
+Artifact Classic,32.,Hungary,$111.30,1 Player
+Artifact Classic,33.,Turkey,$106.80,1 Player
+Artifact Classic,34.,Belgium,$93.30,2 Players
+Artifact Classic,35.,Netherlands,$70.00,1 Player
+Artifact Classic,36.,Uzbekistan,$50.00,1 Player
+Artifact Classic,37.,Latvia,$40.00,1 Player
+Artifact Classic,38.,Philippines,$25.00,1 Player
+Artifact Classic,39.,Singapore,$15.00,1 Player
+Artifact Classic,40.,Azerbaijan,$10.00,1 Player
+Artifact Classic,41.,Indonesia,$10.00,1 Player
+Artifact Classic,42.,Jordan,$5.00,1 Player
+Artifact Classic,43.,Uruguay,$3.33,1 Player
+Artifact Foundry,1.,Chile,$411.75,1 Player
+Artifact Foundry,2.,Russian Federation,$323.85,5 Players
+Artifact Foundry,3.,--UNDEFINED--,$110.00,5 Players
+Artifact Foundry,4.,Ireland,$100.00,1 Player
+Artifact Foundry,5.,Hungary,$56.20,1 Player
+Artifact Foundry,6.,Ukraine,$50.00,1 Player
+Artifact Foundry,7.,United States,$45.00,1 Player
+Artifact Foundry,8.,Germany,$30.00,2 Players
+Artifact Foundry,9.,Italy,$20.00,1 Player
+Artifact Foundry,10.,Canada,$10.00,1 Player
+Artifact Foundry,11.,South Africa,$10.00,1 Player
+Artifact Foundry,12.,Singapore,$7.70,1 Player
+Faeria,1.,France,"$1,650.00",3 Players
+Faeria,2.,Lithuania,$950.00,1 Player
+Faeria,3.,"Korea, Republic of",$625.00,2 Players
+Faeria,4.,Russian Federation,$275.00,2 Players
+Faeria,5.,Austria,$200.00,1 Player
+Faeria,6.,United States,$125.00,1 Player
+Faeria,7.,Egypt,$75.00,1 Player
+Faeria,8.,Japan,$75.00,1 Player
+Gwent,1.,Germany,"$474,121.87",23 Players
+Gwent,2.,Poland,"$335,126.13",61 Players
+Gwent,3.,United Kingdom,"$173,183.11",9 Players
+Gwent,4.,China,"$102,157.52",24 Players
+Gwent,5.,"Moldova, Republic of","$91,065.00",1 Player
+Gwent,6.,Canada,"$69,467.62",4 Players
+Gwent,7.,Russian Federation,"$63,023.71",41 Players
+Gwent,8.,Austria,"$50,638.70",5 Players
+Gwent,9.,Ukraine,"$34,175.45",13 Players
+Gwent,10.,Turkey,"$20,085.70",4 Players
+Gwent,11.,United States,"$20,027.69",34 Players
+Gwent,12.,Colombia,"$17,790.00",2 Players
+Gwent,13.,Brazil,"$11,352.64",15 Players
+Gwent,14.,Belarus,"$9,152.24",7 Players
+Gwent,15.,Denmark,"$9,035.00",2 Players
+Gwent,16.,Spain,"$3,786.78",7 Players
+Gwent,17.,Finland,"$3,758.47",3 Players
+Gwent,18.,Romania,"$3,195.00",3 Players
+Gwent,19.,Netherlands,"$2,983.46",4 Players
+Gwent,20.,Czech Republic,"$2,454.84",6 Players
+Gwent,21.,Belgium,"$1,360.00",3 Players
+Gwent,22.,Italy,"$1,317.90",6 Players
+Gwent,23.,Hungary,"$1,005.89",2 Players
+Gwent,24.,Australia,$898.58,5 Players
+Gwent,25.,Serbia,$745.99,2 Players
+Gwent,26.,Slovenia,$710.94,5 Players
+Gwent,27.,Japan,$578.57,9 Players
+Gwent,28.,France,$569.74,17 Players
+Gwent,29.,"Korea, Republic of",$480.39,8 Players
+Gwent,30.,Slovakia,$162.31,4 Players
+Gwent,31.,Norway,$120.00,1 Player
+Gwent,32.,New Zealand,$94.33,2 Players
+Gwent,33.,Ireland,$88.74,1 Player
+Gwent,34.,Bulgaria,$80.72,3 Players
+Gwent,35.,South Africa,$75.00,3 Players
+Gwent,36.,Lithuania,$56.17,1 Player
+Gwent,37.,Malaysia,$30.00,1 Player
+Gwent,38.,Portugal,$20.00,1 Player
+Gwent,39.,Greece,$10.00,1 Player
+Gwent,40.,Latvia,$5.97,1 Player
+Gwent,41.,Argentina,$5.00,1 Player
+Hand of the Gods,1.,United States,"$24,040.00",22 Players
+Hand of the Gods,2.,United Kingdom,"$22,025.00",2 Players
+Hand of the Gods,3.,Israel,"$16,250.00",1 Player
+Hand of the Gods,4.,France,"$8,550.00",6 Players
+Hand of the Gods,5.,Sweden,"$7,650.00",3 Players
+Hand of the Gods,6.,Romania,"$2,200.00",1 Player
+Hand of the Gods,7.,Slovakia,"$2,100.00",1 Player
+Hand of the Gods,8.,Russian Federation,"$1,850.00",3 Players
+Hand of the Gods,9.,Italy,"$1,410.00",1 Player
+Hand of the Gods,10.,Belgium,"$1,100.00",1 Player
+Hand of the Gods,11.,Spain,"$1,000.00",1 Player
+Hand of the Gods,12.,Canada,$450.00,2 Players
+Hand of the Gods,13.,"Palestine, State of",$375.00,1 Player
+Hand of the Gods,14.,Greece,$275.00,1 Player
+Hand of the Gods,15.,Argentina,$184.20,1 Player
+Hand of the Gods,16.,Chile,$75.00,1 Player
+Hearthstone,1.,China,"$4,481,700.28",448 Players
+Hearthstone,2.,United States,"$3,597,198.72",358 Players
+Hearthstone,3.,"Korea, Republic of","$1,845,052.90",242 Players
+Hearthstone,4.,Germany,"$1,812,241.36",122 Players
+Hearthstone,5.,Japan,"$1,437,993.37",117 Players
+Hearthstone,6.,France,"$1,347,597.99",235 Players
+Hearthstone,7.,"Taiwan, Republic of China","$1,338,778.35",92 Players
+Hearthstone,8.,Canada,"$1,282,282.74",120 Players
+Hearthstone,9.,Russian Federation,"$1,111,696.11",148 Players
+Hearthstone,10.,Ukraine,"$822,810.24",43 Players
+Hearthstone,11.,Sweden,"$745,013.11",56 Players
+Hearthstone,12.,Netherlands,"$716,632.83",46 Players
+Hearthstone,13.,United Kingdom,"$559,423.34",87 Players
+Hearthstone,14.,Czech Republic,"$552,966.88",62 Players
+Hearthstone,15.,Denmark,"$461,048.20",47 Players
+Hearthstone,16.,Norway,"$398,292.46",24 Players
+Hearthstone,17.,Argentina,"$385,961.66",31 Players
+Hearthstone,18.,Brazil,"$364,432.17",80 Players
+Hearthstone,19.,Italy,"$364,169.12",109 Players
+Hearthstone,20.,Hong Kong,"$324,465.10",34 Players
+Hearthstone,21.,Spain,"$317,828.05",84 Players
+Hearthstone,22.,Greece,"$308,390.80",62 Players
+Hearthstone,23.,Poland,"$268,328.17",108 Players
+Hearthstone,24.,Romania,"$257,985.89",31 Players
+Hearthstone,25.,Philippines,"$254,310.27",22 Players
+Hearthstone,26.,Finland,"$247,843.10",59 Players
+Hearthstone,27.,Turkey,"$222,960.39",28 Players
+Hearthstone,28.,Belgium,"$166,710.84",37 Players
+Hearthstone,29.,Singapore,"$148,541.77",32 Players
+Hearthstone,30.,Australia,"$134,014.89",46 Players
+Hearthstone,31.,Thailand,"$132,702.59",32 Players
+Hearthstone,32.,Portugal,"$95,614.19",26 Players
+Hearthstone,33.,Kazakhstan,"$89,188.93",12 Players
+Hearthstone,34.,New Zealand,"$76,075.72",15 Players
+Hearthstone,35.,Switzerland,"$64,264.53",42 Players
+Hearthstone,36.,Mexico,"$62,658.00",15 Players
+Hearthstone,37.,Hungary,"$59,831.73",29 Players
+Hearthstone,38.,Croatia,"$53,408.85",17 Players
+Hearthstone,39.,Viet Nam,"$46,652.07",24 Players
+Hearthstone,40.,Bulgaria,"$40,432.32",17 Players
+Hearthstone,41.,Peru,"$38,705.28",20 Players
+Hearthstone,42.,Israel,"$35,798.20",14 Players
+Hearthstone,43.,India,"$33,087.75",4 Players
+Hearthstone,44.,Indonesia,"$31,988.00",13 Players
+Hearthstone,45.,Chile,"$31,013.42",21 Players
+Hearthstone,46.,Slovakia,"$28,750.99",19 Players
+Hearthstone,47.,Austria,"$27,266.26",25 Players
+Hearthstone,48.,Malaysia,"$26,034.08",19 Players
+Hearthstone,49.,South Africa,"$25,834.19",10 Players
+Hearthstone,50.,Belarus,"$25,413.69",13 Players
+Hearthstone,51.,Lithuania,"$24,941.62",6 Players
+Hearthstone,52.,Luxembourg,"$17,000.80",1 Player
+Hearthstone,53.,Colombia,"$16,783.42",2 Players
+Hearthstone,54.,"Palestine, State of","$15,000.00",1 Player
+Hearthstone,55.,Algeria,"$10,953.37",5 Players
+Hearthstone,56.,Tunisia,"$6,918.96",7 Players
+Hearthstone,57.,Serbia,"$5,838.20",11 Players
+Hearthstone,58.,Estonia,"$5,653.30",2 Players
+Hearthstone,59.,Iceland,"$5,343.45",3 Players
+Hearthstone,60.,Egypt,"$3,746.50",3 Players
+Hearthstone,61.,Uruguay,"$3,180.00",4 Players
+Hearthstone,62.,Bahrain,"$2,250.00",1 Player
+Hearthstone,63.,Slovenia,"$1,500.00",2 Players
+Hearthstone,64.,Syrian Arab Republic,"$1,498.25",1 Player
+Hearthstone,65.,Azerbaijan,"$1,200.00",1 Player
+Hearthstone,66.,Jordan,"$1,198.60",1 Player
+Hearthstone,67.,Latvia,"$1,050.00",2 Players
+Hearthstone,68.,Costa Rica,"$1,000.00",1 Player
+Hearthstone,69.,Honduras,"$1,000.00",1 Player
+Hearthstone,70.,Cuba,$985.00,11 Players
+Hearthstone,71.,Mauritania,$759.00,1 Player
+Hearthstone,72.,Venezuela,$730.00,3 Players
+Hearthstone,73.,Madagascar,$458.00,1 Player
+Hearthstone,74.,Bosnia and Herzegovina,$202.32,2 Players
+Hearthstone,75.,Cyprus,$138.36,2 Players
+Hearthstone,76.,Kuwait,$125.00,1 Player
+Hearthstone,77.,Lebanon,$125.00,1 Player
+Hearthstone,78.,Kyrgyzstan,$119.31,1 Player
+Hearthstone,79.,"Iran, Islamic Republic of",$100.00,3 Players
+Hearthstone,80.,--UNDEFINED--,$77.84,2 Players
+Hearthstone Battlegrounds,1.,United States,"$182,700.00",11 Players
+Hearthstone Battlegrounds,2.,France,"$132,080.00",6 Players
+Hearthstone Battlegrounds,3.,Japan,"$55,250.00",11 Players
+Hearthstone Battlegrounds,4.,Russian Federation,"$40,250.00",6 Players
+Hearthstone Battlegrounds,5.,Canada,"$37,000.00",5 Players
+Hearthstone Battlegrounds,6.,"Korea, Republic of","$28,250.00",4 Players
+Hearthstone Battlegrounds,7.,"Taiwan, Republic of China","$28,250.00",10 Players
+Hearthstone Battlegrounds,8.,Ukraine,"$28,250.00",1 Player
+Hearthstone Battlegrounds,9.,Netherlands,"$27,050.00",2 Players
+Hearthstone Battlegrounds,10.,Romania,"$26,750.00",1 Player
+Hearthstone Battlegrounds,11.,Hong Kong,"$26,250.00",1 Player
+Hearthstone Battlegrounds,12.,China,"$24,000.00",9 Players
+Hearthstone Battlegrounds,13.,Germany,"$20,450.00",6 Players
+Hearthstone Battlegrounds,14.,Norway,"$16,250.00",1 Player
+Hearthstone Battlegrounds,15.,Finland,"$15,500.00",1 Player
+Hearthstone Battlegrounds,16.,Poland,"$9,000.00",2 Players
+Hearthstone Battlegrounds,17.,Sweden,"$5,100.00",3 Players
+Hearthstone Battlegrounds,18.,Belgium,"$4,950.00",3 Players
+Hearthstone Battlegrounds,19.,Brazil,"$3,750.00",3 Players
+Hearthstone Battlegrounds,20.,--UNDEFINED--,"$1,800.00",3 Players
+Hearthstone Battlegrounds,21.,Italy,"$1,750.00",1 Player
+Hearthstone Battlegrounds,22.,Belarus,$500.00,1 Player
+Legends of Runeterra,1.,United States,"$140,800.00",36 Players
+Legends of Runeterra,2.,Poland,"$63,657.14",13 Players
+Legends of Runeterra,3.,Germany,"$56,575.22",25 Players
+Legends of Runeterra,4.,Greece,"$40,310.00",3 Players
+Legends of Runeterra,5.,"Korea, Republic of","$39,940.01",8 Players
+Legends of Runeterra,6.,Czech Republic,"$39,250.00",4 Players
+Legends of Runeterra,7.,France,"$38,525.00",22 Players
+Legends of Runeterra,8.,Brazil,"$35,930.00",22 Players
+Legends of Runeterra,9.,Thailand,"$33,500.00",14 Players
+Legends of Runeterra,10.,Spain,"$32,520.00",15 Players
+Legends of Runeterra,11.,Viet Nam,"$27,550.00",16 Players
+Legends of Runeterra,12.,Japan,"$26,004.99",5 Players
+Legends of Runeterra,13.,Chile,"$18,900.00",2 Players
+Legends of Runeterra,14.,Portugal,"$15,005.00",4 Players
+Legends of Runeterra,15.,Russian Federation,"$13,370.00",9 Players
+Legends of Runeterra,16.,Malaysia,"$11,400.00",7 Players
+Legends of Runeterra,17.,Hong Kong,"$11,150.00",7 Players
+Legends of Runeterra,18.,"Taiwan, Republic of China","$8,965.00",8 Players
+Legends of Runeterra,19.,Italy,"$4,025.00",9 Players
+Legends of Runeterra,20.,Argentina,"$3,700.00",2 Players
+Legends of Runeterra,21.,Turkey,"$3,360.00",6 Players
+Legends of Runeterra,22.,Indonesia,"$1,950.00",6 Players
+Legends of Runeterra,23.,Philippines,"$1,855.00",8 Players
+Legends of Runeterra,24.,Canada,"$1,700.00",5 Players
+Legends of Runeterra,25.,Norway,"$1,155.00",3 Players
+Legends of Runeterra,26.,Lebanon,$955.00,1 Player
+Legends of Runeterra,27.,Singapore,$850.00,4 Players
+Legends of Runeterra,28.,United Kingdom,$570.00,6 Players
+Legends of Runeterra,29.,Ukraine,$513.67,2 Players
+Legends of Runeterra,30.,Macao,$400.00,1 Player
+Legends of Runeterra,31.,Bulgaria,$300.00,2 Players
+Legends of Runeterra,32.,Finland,$300.00,2 Players
+Legends of Runeterra,33.,Saudi Arabia,$300.00,2 Players
+Legends of Runeterra,34.,Uruguay,$300.00,1 Player
+Legends of Runeterra,35.,Belgium,$255.00,3 Players
+Legends of Runeterra,36.,Slovakia,$155.00,2 Players
+Legends of Runeterra,37.,Mexico,$150.00,1 Player
+Legends of Runeterra,38.,Romania,$150.00,1 Player
+Legends of Runeterra,39.,Netherlands,$65.00,2 Players
+Legends of Runeterra,40.,Croatia,$45.00,2 Players
+Legends of Runeterra,41.,Denmark,$15.00,1 Player
+Legends of Runeterra,42.,Sweden,$15.00,1 Player
+Magic The Gathering Arena,1.,United States,"$2,125,125.00",158 Players
+Magic The Gathering Arena,2.,Japan,"$963,800.00",46 Players
+Magic The Gathering Arena,3.,France,"$593,250.00",22 Players
+Magic The Gathering Arena,4.,Germany,"$518,500.00",22 Players
+Magic The Gathering Arena,5.,Brazil,"$494,625.00",7 Players
+Magic The Gathering Arena,6.,Italy,"$415,325.00",19 Players
+Magic The Gathering Arena,7.,Czech Republic,"$356,925.00",7 Players
+Magic The Gathering Arena,8.,Poland,"$342,550.00",9 Players
+Magic The Gathering Arena,9.,Spain,"$265,125.00",16 Players
+Magic The Gathering Arena,10.,Portugal,"$253,100.00",9 Players
+Magic The Gathering Arena,11.,Argentina,"$236,500.00",4 Players
+Magic The Gathering Arena,12.,United Kingdom,"$158,550.00",8 Players
+Magic The Gathering Arena,13.,Canada,"$149,000.00",16 Players
+Magic The Gathering Arena,14.,Lebanon,"$143,700.00",1 Player
+Magic The Gathering Arena,15.,Finland,"$125,000.00",7 Players
+Magic The Gathering Arena,16.,Denmark,"$87,000.00",6 Players
+Magic The Gathering Arena,17.,Sweden,"$43,950.00",5 Players
+Magic The Gathering Arena,18.,Hong Kong,"$41,075.00",3 Players
+Magic The Gathering Arena,19.,China,"$40,000.00",4 Players
+Magic The Gathering Arena,20.,Australia,"$39,500.00",4 Players
+Magic The Gathering Arena,21.,Estonia,"$31,500.00",1 Player
+Magic The Gathering Arena,22.,Austria,"$31,000.00",4 Players
+Magic The Gathering Arena,23.,Mexico,"$29,750.00",3 Players
+Magic The Gathering Arena,24.,Netherlands,"$29,000.00",4 Players
+Magic The Gathering Arena,25.,Belgium,"$21,750.00",4 Players
+Magic The Gathering Arena,26.,Slovakia,"$19,000.00",2 Players
+Magic The Gathering Arena,27.,--UNDEFINED--,"$16,000.00",7 Players
+Magic The Gathering Arena,28.,Russian Federation,"$15,000.00",4 Players
+Magic The Gathering Arena,29.,"Korea, Republic of","$11,500.00",3 Players
+Magic The Gathering Arena,30.,Greece,"$10,000.00",1 Player
+Magic The Gathering Arena,31.,Ukraine,"$6,000.00",1 Player
+Magic The Gathering Arena,32.,"Tanzania, United Republic of","$4,500.00",1 Player
+Magic The Gathering Arena,33.,Guatemala,"$4,000.00",1 Player
+Magic The Gathering Arena,34.,Israel,"$4,000.00",1 Player
+Magic The Gathering Arena,35.,Chile,"$2,000.00",1 Player
+Magic The Gathering Arena,36.,"Taiwan, Republic of China","$1,500.00",1 Player
+Magic The Gathering Arena,37.,Ireland,"$1,200.00",1 Player
+Magic The Gathering Arena,38.,Slovenia,"$1,000.00",1 Player
+Magic The Gathering Arena,39.,Switzerland,$250.00,1 Player
+Magic The Gathering Arena,40.,South Africa,$250.00,1 Player
+Magic The Gathering Online,1.,United States,"$546,000.00",56 Players
+Magic The Gathering Online,2.,Russian Federation,"$104,000.00",3 Players
+Magic The Gathering Online,3.,Denmark,"$87,000.00",6 Players
+Magic The Gathering Online,4.,Japan,"$72,000.00",10 Players
+Magic The Gathering Online,5.,Portugal,"$59,000.00",5 Players
+Magic The Gathering Online,6.,Spain,"$56,000.00",6 Players
+Magic The Gathering Online,7.,Netherlands,"$52,000.00",3 Players
+Magic The Gathering Online,8.,Germany,"$49,000.00",7 Players
+Magic The Gathering Online,9.,Sweden,"$48,000.00",3 Players
+Magic The Gathering Online,10.,Italy,"$47,500.00",1 Player
+Magic The Gathering Online,11.,Brazil,"$41,000.00",3 Players
+Magic The Gathering Online,12.,Finland,"$38,000.00",3 Players
+Magic The Gathering Online,13.,Canada,"$27,000.00",5 Players
+Magic The Gathering Online,14.,Czech Republic,"$25,000.00",3 Players
+Magic The Gathering Online,15.,France,"$23,000.00",4 Players
+Magic The Gathering Online,16.,Thailand,"$12,000.00",2 Players
+Magic The Gathering Online,17.,Poland,"$10,000.00",2 Players
+Magic The Gathering Online,18.,Austria,"$9,000.00",2 Players
+Magic The Gathering Online,19.,Hungary,"$9,000.00",1 Player
+Magic The Gathering Online,20.,Serbia,"$9,000.00",1 Player
+Magic The Gathering Online,21.,Mexico,"$7,500.00",1 Player
+Magic The Gathering Online,22.,Belgium,"$6,000.00",1 Player
+Magic The Gathering Online,23.,Estonia,"$6,000.00",1 Player
+Magic The Gathering Online,24.,United Kingdom,"$6,000.00",1 Player
+Magic The Gathering Online,25.,Norway,"$6,000.00",1 Player
+Magic The Gathering Online,26.,Slovakia,"$6,000.00",1 Player
+Magic The Gathering Online,27.,Uruguay,"$6,000.00",1 Player
+Magic The Gathering Online,28.,Argentina,"$4,000.00",1 Player
+Magic The Gathering Online,29.,Australia,"$4,000.00",1 Player
+Magic The Gathering Online,30.,China,"$4,000.00",1 Player
+Magic The Gathering Online,31.,Hong Kong,"$4,000.00",1 Player
+Mythgard,1.,United States,"$3,000.00",9 Players
+Shadowverse,1.,Japan,"$3,459,756.09",55 Players
+Shadowverse,2.,"Taiwan, Republic of China","$1,054,454.55",7 Players
+Shadowverse,3.,United States,"$237,518.18",28 Players
+Shadowverse,4.,"Korea, Republic of","$213,377.90",8 Players
+Shadowverse,5.,China,"$105,102.28",9 Players
+Shadowverse,6.,Canada,"$40,300.00",15 Players
+Shadowverse,7.,United Kingdom,"$31,271.03",9 Players
+Shadowverse,8.,Portugal,"$26,700.00",2 Players
+Shadowverse,9.,Indonesia,"$18,900.00",27 Players
+Shadowverse,10.,France,"$16,900.00",10 Players
+Shadowverse,11.,Singapore,"$11,400.00",15 Players
+Shadowverse,12.,Philippines,"$9,127.28",8 Players
+Shadowverse,13.,Austria,"$8,518.18",3 Players
+Shadowverse,14.,Greece,"$6,718.18",3 Players
+Shadowverse,15.,Australia,"$4,100.00",4 Players
+Shadowverse,16.,Malaysia,"$3,500.00",3 Players
+Shadowverse,17.,New Caledonia,"$3,300.00",1 Player
+Shadowverse,18.,Belgium,"$3,100.00",1 Player
+Shadowverse,19.,Switzerland,"$3,000.00",1 Player
+Shadowverse,20.,Brazil,"$2,700.00",4 Players
+Shadowverse,21.,Mexico,"$2,600.00",5 Players
+Shadowverse,22.,Poland,"$2,500.00",4 Players
+Shadowverse,23.,Germany,"$2,200.00",2 Players
+Shadowverse,24.,--UNDEFINED--,"$1,800.00",4 Players
+Shadowverse,25.,Bulgaria,"$1,100.00",1 Player
+Shadowverse,26.,Russian Federation,"$1,100.00",3 Players
+Shadowverse,27.,Finland,"$1,000.00",1 Player
+Shadowverse,28.,Chile,$900.00,2 Players
+Shadowverse,29.,Uruguay,$900.00,1 Player
+Shadowverse,30.,New Zealand,$800.00,1 Player
+Shadowverse,31.,Spain,$700.00,1 Player
+Shadowverse,32.,Sweden,$700.00,1 Player
+Shadowverse,33.,Italy,$600.00,2 Players
+Shadowverse,34.,Thailand,$600.00,2 Players
+Shadowverse,35.,Denmark,$500.00,1 Player
+Shadowverse,36.,Viet Nam,$500.00,1 Player
+Shadowverse,37.,Argentina,$300.00,1 Player
+Shadowverse,38.,Czech Republic,$300.00,1 Player
+Shadowverse,39.,Ukraine,$300.00,1 Player
+The Elder Scrolls Legends,1.,United States,"$5,000.00",3 Players
+Yu-Gi-Oh! Duel Links,1.,United States,"$19,983.28",123 Players
+Yu-Gi-Oh! Duel Links,2.,Germany,"$6,516.31",24 Players
+Yu-Gi-Oh! Duel Links,3.,Japan,"$2,271.82",9 Players
+Yu-Gi-Oh! Duel Links,4.,China,"$1,956.52",2 Players
+Yu-Gi-Oh! Duel Links,5.,Brazil,"$1,918.75",72 Players
+Yu-Gi-Oh! Duel Links,6.,Canada,"$1,822.86",14 Players
+Yu-Gi-Oh! Duel Links,7.,France,"$1,700.73",11 Players
+Yu-Gi-Oh! Duel Links,8.,United Kingdom,"$1,626.32",13 Players
+Yu-Gi-Oh! Duel Links,9.,Italy,"$1,598.99",10 Players
+Yu-Gi-Oh! Duel Links,10.,Netherlands,"$1,272.26",7 Players
+Yu-Gi-Oh! Duel Links,11.,Belgium,$982.35,1 Player
+Yu-Gi-Oh! Duel Links,12.,Slovenia,$971.66,2 Players
+Yu-Gi-Oh! Duel Links,13.,Sweden,$822.90,3 Players
+Yu-Gi-Oh! Duel Links,14.,Australia,$687.14,7 Players
+Yu-Gi-Oh! Duel Links,15.,Morocco,$415.08,2 Players
+Yu-Gi-Oh! Duel Links,16.,El Salvador,$409.72,1 Player
+Yu-Gi-Oh! Duel Links,17.,Chile,$409.32,1 Player
+Yu-Gi-Oh! Duel Links,18.,Slovakia,$402.66,1 Player
+Yu-Gi-Oh! Duel Links,19.,Portugal,$363.02,4 Players
+Yu-Gi-Oh! Duel Links,20.,Bahamas,$263.00,1 Player
+Yu-Gi-Oh! Duel Links,21.,Luxembourg,$214.00,1 Player
+Yu-Gi-Oh! Duel Links,22.,Greece,$198.07,4 Players
+Yu-Gi-Oh! Duel Links,23.,Singapore,$190.50,2 Players
+Yu-Gi-Oh! Duel Links,24.,Costa Rica,$164.21,1 Player
+Yu-Gi-Oh! Duel Links,25.,Philippines,$157.50,3 Players
+Yu-Gi-Oh! Duel Links,26.,United Arab Emirates,$156.52,1 Player
+Yu-Gi-Oh! Duel Links,27.,Spain,$140.00,2 Players
+Yu-Gi-Oh! Duel Links,28.,"Korea, Republic of",$132.85,2 Players
+Yu-Gi-Oh! Duel Links,29.,Mexico,$114.91,1 Player
+Yu-Gi-Oh! Duel Links,30.,Denmark,$110.00,1 Player
+Yu-Gi-Oh! Duel Links,31.,Tunisia,$110.00,1 Player
+Yu-Gi-Oh! Duel Links,32.,"Palestine, State of",$102.50,1 Player
+Yu-Gi-Oh! Duel Links,33.,"Taiwan, Republic of China",$101.44,3 Players
+Yu-Gi-Oh! Duel Links,34.,Estonia,$99.47,1 Player
+Yu-Gi-Oh! Duel Links,35.,Iraq,$60.00,2 Players
+Yu-Gi-Oh! Duel Links,36.,Ireland,$58.00,1 Player
+Yu-Gi-Oh! Duel Links,37.,Israel,$55.56,1 Player
+Yu-Gi-Oh! Duel Links,38.,Malaysia,$40.23,1 Player
+Yu-Gi-Oh! Duel Links,39.,Austria,$26.00,1 Player
+Yu-Gi-Oh! Duel Links,40.,Hungary,$22.80,1 Player
+Yu-Gi-Oh! Duel Links,41.,Saudi Arabia,$22.80,1 Player
+Yu-Gi-Oh! Duel Links,42.,Lithuania,$22.00,1 Player
+Yu-Gi-Oh! Duel Links,43.,Indonesia,$19.84,3 Players
+Yu-Gi-Oh! Duel Links,44.,Thailand,$10.49,1 Player
+Yu-Gi-Oh! Duel Links,45.,Viet Nam,$10.00,1 Player

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a1edfb7-69b7-4bba-82cf-518350777f5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/CSValignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/CSVmanipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/MultiVariableScatterGraph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/MultiVariableScatterGraph2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/concatenateCSVs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/gdpScraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/movingAverageLinePlot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/multiFactorAnalysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi-Factor Analysis/Variable CSV/regExCSVManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/addRanksBumpChart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/invertValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/joinAverageRanks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/medalTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/medalTable2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/averageRanks/FPS/radarChart2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experimentation/DigitalPhilology.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/esportsEarningHistory/derivateCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/esportsEarningHistory/splittedBarGraphEarningByCountry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/esportsEarningHistory/totalHistorcEarningsPerYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/historicEarningsByGamePerYear/plotHistoricEarningsByGamePerYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/historicEarningsByGamePerYear/splittedBarGraphHistoricEarningsByGameByYear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraperHistory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specificGames/averageRanks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specificGames/averageRanks2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specificGames/stringManipulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2019.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2021.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsCSV/earnings2023.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/historicEarnings/historicEarningsPY/earningScraper2023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/specificGames/specificGameScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/specificGames/specificGameScraper.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ro5sQxqcCGud69z4v9QZYCX7Cb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/juliu/Desktop/GameStudiesSeminararbeit"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\juliu\Desktop\GameStudiesSeminararbeit\historicEarnings\historicEarningsCSV\esportsEarningHistory" />
+      <recent name="C:\Users\juliu\Desktop\GameStudiesSeminararbeit" />
+      <recent name="C:\Users\juliu\Desktop\GameStudiesSeminararbeit\historicEarnings\historicEarningsCSV\historicEarningsByGamePerYear" />
+      <recent name="C:\Users\juliu\Desktop\GameStudiesSeminararbeit\historicEarnings\historicEarningsPY" />
+      <recent name="C:\Users\juliu\Desktop\GameStudiesSeminararbeit\historicEarnings" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a1edfb7-69b7-4bba-82cf-518350777f5a" name="Changes" comment="" />
+      <created>1687903800687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687903800687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/averageRanks/FPS/radarChart.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
