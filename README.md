@@ -1,6 +1,3 @@
-Sure! Here's the full README as plain Markdown text (no code block formatting around it), exactly as you'd put it in your README.md file:
-
----
 
 # **Decoding E-Sports Supremacy**
 
@@ -10,44 +7,20 @@ This project investigates the dynamics of competitive dominance in e-sports, foc
 
 ## **Overview**
 
-E-sports has rapidly evolved into a global competitive phenomenon. Understanding what drives supremacy—be it player skill, team strategies, or meta-game shifts—is key for analysts, coaches, and enthusiasts alike.
+E-sports has rapidly evolved into a global competitive phenomenon with cultural and financial cloud that doesnt fall short of major sports championships. Understanding what drives dominance therefore is required not only by professional players, stakeholders and fans but by obersvers of the political realm it naturally inherits.
 
 This repository offers:
 
 * Data collection and preprocessing pipelines
-* Statistical analyses of player/team performance metrics
-* Visualizations highlighting key trends and turning points
-* Reproducible code for further experimentation
+* Visualizations highlighting key geografical and historic trends in e-sports earnings
+* Multi-Faktor analysis that correlates diffrent indicators (GDP, average internet speed, olympic medals) with e-sports earnings
 
 ---
 
 ## **Data Sources**
 
-The datasets are compiled from public APIs, tournament results, and player statistics across multiple popular e-sports titles (e.g., League of Legends, Dota 2, CS\:GO).
+The datasets are compiled from www.esportsearnings.com
 
-Preprocessing scripts handle data cleaning, normalization, and aggregation to enable meaningful cross-title comparisons.
-
----
-
-## **Key Features**
-
-* **Performance Metrics:** Computation of advanced stats such as kill/death ratios, win rates, and consistency scores.
-* **Temporal Analysis:** Tracking changes in dominance over seasons or patches.
-* **Comparative Visualizations:** Interactive charts and heatmaps illustrating supremacy patterns.
-* **Open-Source Tools:** Written primarily in Python using libraries like `pandas`, `matplotlib`, and `seaborn`.
-
----
-
-## **Usage**
-
-To reproduce the analyses and visualizations:
-
-```bash
-git clone https://github.com/Pigeon-Effect/Decoding-E-Sports-Supremacy.git  
-cd Decoding-E-Sports-Supremacy  
-pip install -r requirements.txt  
-python analysis.py
-```
 
 ---
 
@@ -77,4 +50,3 @@ python analysis.py
 
 ---
 
-That’s the entire README in plain Markdown text. Just paste it as-is into your README.md file in your repo root. The images will render properly on GitHub assuming your `results` folder is at the root with those PNG files inside.
